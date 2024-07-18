@@ -1,4 +1,4 @@
-# DeepDanbooru V3
+# DeepDanbooru V4
 
 This model was made by [KichangKim](https://github.com/KichangKim/DeepDanbooru).
 
