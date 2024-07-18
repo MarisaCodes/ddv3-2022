@@ -1,6 +1,6 @@
 # DeepDanbooru V3
 
-This model was made by [KichangKim](git@github.com:MarisaCodes/ddv3-2022.git).
+This model was made by [KichangKim](https://github.com/KichangKim/DeepDanbooru).
 
 Just hosting it for use.
 
